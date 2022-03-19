@@ -1,0 +1,6 @@
+
+// création des polices avec la mixin font-face
+@include font-face('OS_R', 'OpenSans-Regular', 400);
+@include font-face('OS_I', 'OpenSans-Italic', 400, italic);
+@include font-face('OS_L', 'OpenSans-Light', 300);
+@include font-face('OS_B', 'OpenSans-Bold', 700);
